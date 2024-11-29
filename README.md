@@ -1,4 +1,4 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐄𝐋𝐋𝐎 𝐓𝐇𝐄𝐑𝐄, 𝐅𝐄𝐋𝐋𝐎𝐖 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
@@ -10,3 +10,5 @@
 [![](https://visitcount.itsvg.in/api?id=mkasplanwar&label=Profile%20Views&color=6&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 Hi there! 👋 I'm M. Kaspul Anwar, an IT student at UIN Antasari, Banjarbaru, with a strong passion for AI and Machine Learning 🤖. I enjoy building projects using C++ and Python, and I’m constantly exploring new skills
+
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=mkasplanwar&hide=["issues"]&show_icons=true)
