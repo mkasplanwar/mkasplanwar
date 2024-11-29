@@ -21,5 +21,6 @@ Hi there! 👋 I'm M. Kaspul Anwar, an IT student at UIN Antasari, Banjarbaru, w
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkasplanwar&theme=greywhite" alt="GitHub Streak" />![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkasplanwar&layout=compact)
 
+![dino](https://github.com/user-attachments/assets/5fc7dc22-689e-4d73-8c06-9d25c21c4bd3)
 
 
