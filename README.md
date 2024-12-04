@@ -12,8 +12,8 @@
 Hi there! 👋 I'm M. Kaspul Anwar, an IT student at UIN Antasari, Banjarbaru, with a strong passion for AI and Machine Learning 🤖. I enjoy building projects using C++ and Python, and I’m constantly exploring new skills
 <br><br><br>
 
-## 🌟 My Skills  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,cpp,php,git,github)](#)
+### 🌟 My Skills  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,cpp,php,git,github,vercel)](#)
 
 ## 📊 GitHub Stats & Streak
 
