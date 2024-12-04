@@ -1,6 +1,6 @@
 <h2> 𝐇𝐄𝐋𝐋𝐎 𝐓𝐇𝐄𝐑𝐄, 𝐅𝐄𝐋𝐋𝐎𝐖 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align='right' src='https://i.pinimg.com/originals/9d/13/9e/9d139ec113fc60e348157fdd83ace39b.gif' width='400px'>
+<img align='right' src='https://i.pinimg.com/originals/9d/13/9e/9d139ec113fc60e348157fdd83ace39b.gif' width='350px'>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mkasplanwar/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mkasplanwar/)
