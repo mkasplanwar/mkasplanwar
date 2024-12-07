@@ -16,6 +16,7 @@
 </div>
 
 <div align="left
+## Tech Skills & Tools 
   
   <!-- Programming Languages -->
   <h4>Languages:</h4>
