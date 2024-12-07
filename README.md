@@ -15,8 +15,7 @@
   </p>
 </div>
 
-<div align="left">
-  <p style="font-size:15px"; font-weight:bold;>Tech Skills & Tools 🛠️</p>
+<div align="left
   
   <!-- Programming Languages -->
   <h4>Languages:</h4>
