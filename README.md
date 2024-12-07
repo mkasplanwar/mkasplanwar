@@ -3,7 +3,7 @@
 </div>
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=mkasplanwar&label=Profile%20Views&color=4c9aff&style=for-the-badge&pretty=true" alt="Profile Views Badge" width="200" height="35" />
+    <img src="https://visitcount.itsvg.in/api?id=mkasplanwar&label=Profile%20Views&color=F39C12FF&style=for-the-badge&pretty=true" alt="Profile Views Badge" width="200" height="35" />
   </a>
 </p>
 
