@@ -42,4 +42,8 @@
 ## 📊 GitHub Stats & Streak
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkasplanwar&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkasplanwar&layout=compact&theme=tokyonight">
+</div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mkasplanwar&theme=radical">
 </div>
