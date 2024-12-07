@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/-Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin ₿" />
   <img src="https://img.shields.io/badge/-Ordinals-8251F6?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Ordinals" />
   <img src="https://img.shields.io/badge/-Lightning-005AFF?style=for-the-badge&logo=lightning&logoColor=white" alt="Lightning⚡" />
+  <img src="https://img.shields.io/badge/-Monero-FF6600?style=for-the-badge&logo=monero&logoColor=white" alt="Monero (XMR)" />
   
   <!-- Tools -->
   <h4>Tools:</h4>
@@ -35,6 +36,12 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
+  <img src="https://img.shields.io/badge/-XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
+<img src="https://img.shields.io/badge/-DomaiNesia-1E87F0?style=for-the-badge&logo=google-chrome&logoColor=white" alt="DomaiNesia" />
+<img src="https://img.shields.io/badge/-Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger" />
+<img src="https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+<img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
 </div>
 
 
