@@ -13,6 +13,16 @@
     I specialize in <strong>Artificial Intelligence</strong> and have a deep interest in <strong>Machine Learning</strong>.  
     Let's build something amazing together! 💻✨
   </p>
+  <div align="center">
+  <h4>Send Me Some ⚡</h4>
+  <p>
+    <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin Logo" />
+  </p>
+  <p>
+    <strong>Address:</strong> <code>bc1q8y5pnaxvk3pq2564cpl7u63n075pye25h7nx3j</code>
+  </p>
+</div>
+
 </div>
 
 ### Tech Skills & Tools 🛠️
