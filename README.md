@@ -40,8 +40,6 @@
 
 
 ## 📊 GitHub Stats & Streak
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mkasplanwar&theme=greywhite" alt="GitHub Streak" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkasplanwar&layout=compact)
-
-
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mkasplanwar&theme=tokyonight" alt="GitHub Streak" />
+</div>
