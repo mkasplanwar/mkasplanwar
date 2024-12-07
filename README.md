@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rock+Salt&size=40&duration=4000&pause=1000&color=F39C12&center=true&vCenter=true&width=700&height=70&lines=Are+You+Ready+Captain%3F;I'm+M.+Kaspul+Anwar" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rock+Salt&size=40&duration=4000&pause=1000&color=F39C12&center=true&vCenter=true&width=700&height=70&lines=Thanks+God%2C+I'm+An+Engineer;Are+You+Ready+Captain%3F" alt="Typing SVG" /></a>
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mkasplanwar&style=for-the-badge&color=F39C12" alt="Profile Views"/>
