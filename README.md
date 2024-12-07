@@ -15,29 +15,8 @@
   </p>
 </div>
 
-<div align="left
-## Tech Skills & Tools 
-  
-  <!-- Programming Languages -->
-  <h4>Languages:</h4>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  
-  <!-- Frameworks -->
-  <h4>Frameworks:</h4>
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  
-  <!-- Tools -->
-  <h4>Tools:</h4>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</div>
-
 ### Tech Skills & Tools 🛠️
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,cpp,php,git,github,vercel)](#)
+
 
 ## 📊 GitHub Stats & Streak
 
