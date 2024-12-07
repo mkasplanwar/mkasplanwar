@@ -1,11 +1,9 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rock+Salt&size=40&duration=4000&pause=1000&color=F39C12&center=true&vCenter=true&width=700&height=70&lines=Are+You+Ready+Captain%3F;I'm+M.+Kaspul+Anwar" alt="Typing SVG" /></a>
 </div>
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=mkasplanwar&label=Profile%20Views&color=F39C12FF&style=for-the-badge&pretty=true" alt="Profile Views Badge" width="200" height="35" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mkasplanwar&style=for-the-badge&color=F39C12" alt="Profile Views"/>
+</div>
 
 <div align="left">
   <h2>About Me <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
@@ -38,7 +36,7 @@
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </div>
 
-### 🌟 My Skills  
+### Tech Skills & Tools 🛠️
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,cpp,php,git,github,vercel)](#)
 
 ## 📊 GitHub Stats & Streak
