@@ -1,4 +1,13 @@
-<h2> 𝐇𝐄𝐋𝐋𝐎 𝐓𝐇𝐄𝐑𝐄, 𝐅𝐄𝐋𝐋𝐎𝐖 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rock+Salt&size=40&duration=4000&pause=1000&color=F39C12&center=true&vCenter=true&width=700&height=70&lines=Are+You+Ready+Captain%3F;I'm+M.+Kaspul+Anwar" alt="Typing SVG" /></a>
+</div>
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=mkasplanwar&label=Profile%20Views&color=4c9aff&style=for-the-badge&pretty=true" alt="Profile Views Badge" width="200" height="35" />
+  </a>
+</p>
+
+<h2> About Me <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <img align='right' src='http://cutecafe.art/wp-content/uploads/2024/08/0-A-chan.gif' width='350px'>
 
