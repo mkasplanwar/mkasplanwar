@@ -18,13 +18,16 @@
 ### Tech Skills & Tools 🛠️
 <div align="left">
   <!-- Programming Languages -->
-  <h4>Languages:</h4>
+  <h4>Languages & Interest💡</h4>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/-Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin ₿" />
+  <img src="https://img.shields.io/badge/-Ordinals-8251F6?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Ordinals" />
+  <img src="https://img.shields.io/badge/-Lightning-005AFF?style=for-the-badge&logo=lightning&logoColor=white" alt="Lightning⚡" />
   
   <!-- Tools -->
   <h4>Tools:</h4>
@@ -37,9 +40,8 @@
 
 
 ## 📊 GitHub Stats & Streak
-<div align = "center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkasplanwar&theme=greywhite" alt="GitHub Streak" />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkasplanwar&layout=compact)
-</div>
 
 
