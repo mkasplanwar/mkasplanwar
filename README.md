@@ -54,8 +54,15 @@
 <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
 </div>
 
+### 📊 Github Stats:
+<p align="center">
+<a href="https://github.com/Obyyyy">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mkasplanwar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mkasplanwar&layout=compact&langs_count=8&theme=tokyonight"/>
+</a>
+</p>
 
-
+<!--
 ## 📊 GitHub Stats & Streak
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkasplanwar&theme=tokyonight" alt="GitHub Streak" />
@@ -64,3 +71,4 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mkasplanwar&theme=radical">
 </div>
+-->
