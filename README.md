@@ -18,11 +18,12 @@
   <p>
     <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin Logo" />
   </p>
+  <div style="background-color: white; padding: 10px; display: inline-block; border-radius: 5px;">
+    <img src="https://github.com/user-attachments/assets/7999d0a5-9acc-44a7-afd0-86a56567ea0e" width="120px" alt="Bitcoin QR Code"/>
+  </div>
   <p>
     <strong>Address:</strong> <code>bc1qn9fn2z22rdtuy66ta3p2he2pdhtvvkucunljgh</code>
   </p>
-</div>
-
 </div>
 
 ### Tech Skills & Tools 🛠️
