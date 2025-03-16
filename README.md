@@ -32,14 +32,6 @@
   <h4>Languages & Interest💡</h4>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/-Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin ₿" />
-  <img src="https://img.shields.io/badge/-Ordinals-8251F6?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Ordinals" />
-  <img src="https://img.shields.io/badge/-Lightning-005AFF?style=for-the-badge&logo=lightning&logoColor=white" alt="Lightning⚡" />
-  <img src="https://img.shields.io/badge/-Monero-FF6600?style=for-the-badge&logo=monero&logoColor=white" alt="Monero (XMR)" />
   
   <!-- Tools -->
   <h4>Tools:</h4>
@@ -58,8 +50,8 @@
 ### 📊 Github Stats:
 <p align="center">
 <a href="https://github.com/mkasplanwar">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mkasplanwar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mkasplanwar&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mkasplanwar&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mkasplanwar&layout=compact&langs_count=8&theme=graywhite"/>
 </a>
 </p>
 
