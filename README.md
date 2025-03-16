@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin Logo" />
   </p>
   <p>
-    <strong>Address:</strong> <code>bc1peedsk2nzru2s774u0x7c9ss45nqchp9jna0h7js34vzxx7jyfjdslrpye8</code>
+    <strong>Address:</strong> <code>bc1qn9fn2z22rdtuy66ta3p2he2pdhtvvkucunljgh</code>
   </p>
 </div>
 
