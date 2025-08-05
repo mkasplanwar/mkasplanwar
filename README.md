@@ -16,10 +16,6 @@
   <div align="center">
   <h4>Send Me Some ⚡</h4>
   <p>
-    <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin Logo" />
-  </p>
-  
-  <p>
     <strong>Address:</strong> <code>bc1q95qeqystvaf99xfp8lf87m0gwrwntvae2nwj3f</code>
   </p>
 </div>
