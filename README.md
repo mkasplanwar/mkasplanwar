@@ -4,6 +4,8 @@
   </a>
 </div>
 
+<br><br>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mkasplanwar&style=for-the-badge&color=F39C12" alt="Profile Views"/>
 </div>
@@ -26,7 +28,7 @@ I focus on building intelligent solutions that make real-world impacts and const
 
 </td>
 <td align="center">
-<img src="wuffi.gif" width="350px" alt="GIF"/>
+<img src="https://raw.githubusercontent.com/mkasplanwar/main/wuffi.gif" width="350px" alt="GIF"/>
 </td>
 </tr>
 </table>
@@ -49,9 +51,13 @@ I focus on building intelligent solutions that make real-world impacts and const
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<a href="https://github.com/mkasplanwar">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mkasplanwar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mkasplanwar&hide=html,css&layout=compact&langs_count=8&theme=tokyonight"/>
-</a>
-</p>
+<table>
+<tr>
+<td>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mkasplanwar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</td>
+<td>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mkasplanwar&hide=html,css&layout=compact&langs_count=8&theme=tokyonight"/>
+</td>
+</tr>
+</table>
