@@ -1,71 +1,65 @@
-<!-- Animated Intro -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=800&height=70&lines=Hello%2C+I'm+Anwar+%F0%9F%91%8B;AI+Engineer+%7C+Machine+Learning+Craftsman;Turning+Ideas+Into+Code" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rock+Salt&size=40&duration=4000&pause=1000&color=F39C12&center=true&vCenter=true&width=700&height=70&lines=Thanks+God%2C+I'm+An+Engineer;Are+You+Ready+Captain%3F" alt="Typing SVG" /></a>
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mkasplanwar&style=for-the-badge&color=F39C12" alt="Profile Views"/>
 </div>
 
-<!-- Profile Views -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mkasplanwar&style=for-the-badge&color=7209B7" alt="Profile Views"/>
+<div align="left">
+  <h2>About Me <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+  <img align='right' src='http://cutecafe.art/wp-content/uploads/2024/08/0-A-chan.gif' width='350px'>
+  <p>
+    Hi there! 👋 I'm <strong>Anwar</strong>, a passionate developer who loves to create and innovate.  
+    I specialize in <strong>Artificial Intelligence</strong> and have a deep interest in <strong>Machine Learning</strong>.  
+    Let's build something amazing together! 💻✨
+  </p>
+  <div align="center">
+  <h4>Send Me Some ⚡</h4>
+  <p>
+    <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin Logo" />
+  </p>
+  
+  <p>
+    <strong>Address:</strong> <code>bc1q95qeqystvaf99xfp8lf87m0gwrwntvae2nwj3f</code>
+  </p>
 </div>
 
----
+### Tech Skills & Tools 🛠️
+<div align="left">
+  <!-- Programming Languages -->
+  <h4>Languages & Interest💡</h4>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  
+  <!-- Tools -->
+  <h4>Tools:</h4>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
+  <img src="https://img.shields.io/badge/-XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
+<img src="https://img.shields.io/badge/-DomaiNesia-1E87F0?style=for-the-badge&logo=google-chrome&logoColor=white" alt="DomaiNesia" />
+<img src="https://img.shields.io/badge/-Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger" />
+<img src="https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+<img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+</div>
 
-<!-- About Me -->
-<table>
-<tr>
-<td width="60%" valign="top">
-
-### 👨‍💻 Who Am I?
-I’m **Anwar** — a curious mind obsessed with building intelligent systems.  
-My playground is where **code meets creativity** — from AI-driven applications to experimental ML models.  
-
-- 🚀 Currently exploring: **Neural Network Optimization** & **Generative AI**  
-- 💡 Believer in: *“Code is poetry, but bugs are plot twists”*  
-- 🎯 Goal: Make tech that’s both **useful** and **beautiful**
-
-</td>
-<td width="40%" align="center">
-  <img src="![Vibing Good Night GIF by WUFFI](https://github.com/user-attachments/assets/fef9ac7d-8ad8-4658-b56d-9596cf3c1b4c)
-" width="300px" />
-</td>
-</tr>
-</table>
-
----
-
-### 🛠 Languages & Tools
-<p>
-  <img src="https://img.shields.io/badge/-Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-ff4d6d?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-ff8800?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-00b4d8?style=for-the-badge&logo=css3&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/-Git-e63946?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VS%20Code-7209b7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-ffb703?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Figma-a29bfe?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
----
-
-### 📊 My GitHub Universe
+### 📊 Github Stats:
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mkasplanwar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkasplanwar&layout=compact&langs_count=8&theme=tokyonight"/>
+<a href="https://github.com/mkasplanwar">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mkasplanwar&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mkasplanwar&layout=compact&langs_count=8&theme=graywhite"/>
+</a>
 </p>
 
----
-
-### 🌌 Fun Facts
-- ☕ My best code comes after midnight.  
-- 🎧 I debug faster with lo-fi beats.  
-- 🐧 Linux over Windows. Always.  
-- 💭 I believe **clean code > clever code**.  
-
----
-
+<!--
+## 📊 GitHub Stats & Streak
 <div align="center">
-  <i>"One of my most productive days was throwing away 1000 lines of code." — Ken Thompson</i>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mkasplanwar&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkasplanwar&layout=compact&theme=tokyonight">
 </div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mkasplanwar&theme=radical">
+</div>
+-->
