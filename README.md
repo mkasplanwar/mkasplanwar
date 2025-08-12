@@ -25,7 +25,8 @@ My playground is where **code meets creativity** — from AI-driven applications
 
 </td>
 <td width="40%" align="center">
-  <img src="http://cutecafe.art/wp-content/uploads/2024/08/0-A-chan.gif" width="300px" />
+  <img src="![Vibing Good Night GIF by WUFFI](https://github.com/user-attachments/assets/fef9ac7d-8ad8-4658-b56d-9596cf3c1b4c)
+" width="300px" />
 </td>
 </tr>
 </table>
