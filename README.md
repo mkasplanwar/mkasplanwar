@@ -26,7 +26,7 @@ I focus on building intelligent solutions that make real-world impacts and const
 
 </td>
 <td align="center">
-<img src="https://github.com/user-attachments/assets/dcdf8627-ca47-41b0-b31c-ea6d37cba408" width="350px" alt="GIF"/>
+<img src="wuffi.gif" width="350px" alt="GIF"/>
 </td>
 </tr>
 </table>
