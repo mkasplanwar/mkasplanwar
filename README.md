@@ -1,8 +1,10 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Rock+Salt&size=40&duration=4000&pause=1000&color=F39C12&center=true&vCenter=true&width=800&height=70&lines=Thanks+God%2C+I'm+An+Engineer;Machine+Learning+Is+My+Weapon" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Rock+Salt&size=40&duration=3000&pause=1000&color=F39C12&center=true&vCenter=true&width=800&height=70&lines=Code.+Train.+Predict.+Repeat."
+         alt="Typing SVG" />
   </a>
 </div>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mkasplanwar&style=for-the-badge&color=F39C12" alt="Profile Views"/>
