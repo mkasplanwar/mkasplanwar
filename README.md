@@ -14,7 +14,7 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td valign="top">
 
 Hi, I'm **Anwar** 👋  
 A developer passionate about **Artificial Intelligence**, **Machine Learning**, and **Data Science**.  
@@ -25,8 +25,8 @@ I focus on building intelligent solutions that make real-world impacts and const
 > *"Artificial Intelligence is the new electricity."* — **Andrew Ng**
 
 </td>
-<td align="center">
-<img src="https://cdn.dribbble.com/userupload/21374609/file/original-aab4fed54e17b77f5da6c9a4a0931a74.gif" width="350px" alt="GIF"/>
+<td align="center" valign="middle" style="min-width:350px;">
+<img src="https://github.com/user-attachments/assets/ab9a6467-1ecd-408f-b59c-a32d00207cc1" width="100%" style="max-width:350px;" alt="GIF"/>
 </td>
 </tr>
 </table>
