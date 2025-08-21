@@ -7,8 +7,8 @@
 
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mkasplanwar&style=for-the-badge&color=F39C12" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/mkasplanwar?style=for-the-badge&color=F39C12" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=mkaspulanwar&style=for-the-badge&color=F39C12" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/mkaspulanwar?style=for-the-badge&color=F39C12" alt="Followers"/>
 </div>
 
 
@@ -53,16 +53,16 @@ interests = [
 ## 📊 GitHub Stats
 
 <p align="center">
-<a href="https://github.com/mkasplanwar">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mkasplanwar&show_icons=true&hide_border=true&bg_color=0d1117&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mkasplanwar&hide=html,css&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&theme=tokyonight"/>
+<a href="https://github.com/mkaspulanwar">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mkaspulanwar&show_icons=true&hide_border=true&bg_color=0d1117&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mkaspulanwar&hide=html,css&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&theme=tokyonight"/>
 </a>
 </p>
 
 ## 📈 Activity Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mkasplanwar&theme=tokyo-night&bg_color=1a1b27&color=a9b1d6&line=00d4ff&point=7c3aed&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mkaspulanwar&theme=tokyo-night&bg_color=1a1b27&color=a9b1d6&line=00d4ff&point=7c3aed&area=true&hide_border=true"/>
 </div>
 
 <br>
