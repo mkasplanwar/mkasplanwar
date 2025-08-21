@@ -8,7 +8,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mkaspulanwar&style=for-the-badge&color=F39C12" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/mkaspulanwar?style=for-the-badge&color=F39C12" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/mkaspulanwar?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 
