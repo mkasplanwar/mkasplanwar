@@ -26,64 +26,58 @@ interests = [
 ]
 ```
 
+## Skills & Tools 🛠
 
-
-
-
-## 🛠 Skills & Tools
-
-### 💻 Programming
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+### 💻 Languanges & Frameworks:
+<br>
+<p align='left'>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+</p>
 
-### 🔧 Development Tools
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+### 🔧 Development Tools:
+<br>
+<p align='left'>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
+<img src="https://img.shields.io/badge/JupyterLab-7583D1?style=for-the-badge&logo=Jupyter&logoColor=white" alt="JupyterLab Badge">
+<img src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white">
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
+</p>
 
-
-
-## 📊 GitHub Stats
+## GitHub Stats 📊
 
 <p align="center">
 <a href="https://github.com/mkaspulanwar">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mkaspulanwar&show_icons=true&hide_border=true&bg_color=0d1117&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mkaspulanwar&hide=html,css&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mkaspulanwar&show_icons=true&bg_color=0d1117&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mkaspulanwar&hide=html,css&layout=compact&langs_count=8&bg_color=0d1117&theme=tokyonight"/>
 </a>
 </p>
 
-## 📈 Activity Graph
+## Activity Graph 📈
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mkaspulanwar&theme=tokyo-night&bg_color=1a1b27&color=a9b1d6&line=00d4ff&point=7c3aed&area=true&hide_border=true"/>
 </div>
-
 <br>
 
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mkasplanwar)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mkaspulanwar2002@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://mkaspulanwar.com)
-
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div>
+## Just a snake eating my contributions 🐍
+<p align='center'>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+</p>
+<hr>
 
 <br>
-
 <div align="center">
 <p><i>Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</i></p>
 </div>
